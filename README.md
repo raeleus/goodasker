@@ -1,5 +1,4 @@
-##### -----
-![The-Good-Asker-Small](https://user-images.githubusercontent.com/12948924/119228207-ce28bf80-bac6-11eb-832f-062a75134913.png)
+![The Good Asker](https://user-images.githubusercontent.com/12948924/119228207-ce28bf80-bac6-11eb-832f-062a75134913.png)
 
 ## The Dilemma
 You are perplexed by a question. It may have plagued you for months or it has just crossed your mind. The only thing you know… the only thing that matters is that it must be answered.
