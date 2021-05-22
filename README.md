@@ -31,6 +31,17 @@ You’re actually a good asker! You have the potential for great things and this
 
 **Be open to alternatives.** You think the helpers gave you the wrong answer. They had the audacity to ask you why you are doing it this way. Perhaps it was the wrong answer. Or, more likely than not, you asked the wrong question! If they're telling you that your approach is completley incorrect, they're telling you from experience. Be willing to try something else even if it goes against your instincts.
 
+## Examples
+
+> It's not working.
+
+Bad ask! What's not working? What is your goal and where is the detail?
+
+> How do I make a UI?
+Another bad one. There are complete guides on this all over the internet and in the offical docs.
+
+asdf
+
 ## Conclusion
 
 Generally, if you're kind and set reasonable expectations you will find a solution. The helpers do their work because they find it enjoyable. It's not enjoyable if the question is lazy. That is just a step short of asking someone to just do your project for you! Demonstrate some thought and challenge yourself first. Ask a good question and then the answers will flow. Maybe someday you'll become a helper and understand why we ask this of you.
