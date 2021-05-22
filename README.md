@@ -23,7 +23,7 @@ You’re actually a good asker! You have the potential for great things and this
 
 **Demonstrate the actual problem.** Use clear language to explain the issue you’re having in your question. Helpers are not mind readers and they really dislike having to ask you a bunch of questions to find out what’s really wrong. Step outside of yourself and ask “can someone understand the point of my question without any other context?”
 
-**Pictures are great!** A screenshot will take you a long way. Annotate with circles, labels, and arrows if you think it will make the problem more obvious. What you’re not going to do is take a snap with your smartphone. Hideous! What’s not great about a picture, however, is that people can’t copy and paste the text into their editor. Never take a screenshot of code when formatted text will do.
+**Pictures are great!** A screenshot will take you a long way. Annotate with circles, labels, and arrows if you think it will make the problem more obvious. What you’re not going to do is take a snap with your smartphone. Hideous! Bonus points for cropping the image to the relevant parts only. What’s not great about a picture, however, is that people can’t copy and paste the text into their editor. Never take a screenshot of code when formatted text will do.
 
 **Don’t blame.** The editor, the framework, the language: these are not the issue. Plenty of other people have done it already and much more successfully than you. The problem is yours, so own it! Maybe your chosen path has some extra obstacles, but it can only be overcome if you choose to do the work.
 
