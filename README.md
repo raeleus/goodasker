@@ -38,9 +38,20 @@ You’re actually a good asker! You have the potential for great things and this
 Bad ask! What's not working? What is your goal and where is the detail?
 
 > How do I make a UI?
+
 Another bad one. There are complete guides on this all over the internet and in the offical docs.
 
-asdf
+> Can someone look at my source code and tell me what's wrong?
+
+Try again. Don't ask for permission to ask the real question, first of all. Just ask the question! Also, try creating a self contained example of the problem.
+
+> I'm having trouble implementing a progress bar. The loading bar itself is partially visible even when the value is set to 0. I've read the official wiki (which is lacking much detail) and googled my problem with not much luck. Does anyone have an idea about what's going on? Please see the attached image and source code.  
+> ![image](https://user-images.githubusercontent.com/12948924/119227377-5ce70d80-bac2-11eb-9195-6c96c7a6b4b7.png)  
+> public static void main(String args[]) {  
+>     ...etc  
+> }
+
+This is a great question because it has a good amount of detail and examples of the problem. It demonstrates that the asker has done their due dilligance and really needs guided help.
 
 ## Conclusion
 
