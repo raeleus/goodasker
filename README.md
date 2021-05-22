@@ -9,7 +9,7 @@ You asked the question and were immediately sent to this link, bringing you to m
 
 ## The Revelation
 
-You’re a bad asker. I’m sorry to say it, but it’s true. You don’t know how to ask a direct question and demonstrate that you tried to solve the problem on your own. You have failed to acknowledge that these folks are volunteers and their time is important to them too. In fact, you didn’t even bother to review the carefully written documentation that would have answered your question anyway. And, much to this point, you aren’t even reading this because bad askers famously tune out when these facts are presented to them. This is when you become defensive. You become angry and lash out at the helpers, further burying you in a deeper, answerless pit.
+You’re a bad asker. I’m sorry to say it, but it’s true. You don’t know how to ask a direct question and demonstrate that you tried to solve the problem on your own. You have failed to acknowledge that these folks are volunteers and their time is important to them too. In fact, you didn’t even bother to review the carefully written documentation that would have answered your question anyway. And, much to this point, you aren’t even reading this because bad askers famously tune out when confronted with these facts. This is when you become defensive. You become angry and lash out at the helpers, further burying you in a deeper, answerless pit.
 
 ## The Solution
 
