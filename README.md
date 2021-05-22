@@ -29,7 +29,7 @@ You’re actually a good asker! You have the potential for great things and this
 
 **Be patient.** Go ahead and ask your question but expect a delayed response. The nature of internet help is that of waiting. Helpers are of an international cast with varying schedules and interest. Don’t be dissuaded if your question doesn’t get any traction and certainly don’t spam for attention. Only repost after a good period of time has passed and do so carefully.
 
-**Be open to alternatives.** You think the helpers gave you the wrong answer. They had the audacity to ask you why you are doing it this way. Perhaps it was the wrong answer. Or, more likely than not, you asked the wrong question! If they're telling you that your approach is completley incorrect, they're telling you from experience. Be willing to try something else even if it goes against your instincts.
+**Be open to alternatives.** You think the helpers gave you the wrong answer. They had the audacity to ask you why you are doing it this way. Perhaps it was the wrong answer. Or, more likely than not, you asked the wrong question! If they're telling you that your approach is completely incorrect, they're telling you from experience. Be willing to try something else even if it goes against your instincts.
 
 ## Examples
 
@@ -39,7 +39,7 @@ Bad ask! What's not working? What is your goal and where is the detail?
 
 > How do I make a UI?
 
-Another bad one. There are complete guides on this all over the internet and in the offical docs.
+Another bad one. There are complete guides on this all over the internet and in the official docs.
 
 > Can someone look at my source code and tell me what's wrong?
 
@@ -51,7 +51,7 @@ Try again. Don't ask for permission to ask the real question, first of all. Just
 >     ...etc  
 > }
 
-This is a great question because it has a good amount of detail and examples of the problem. It demonstrates that the asker has done their due dilligance and really needs guided help.
+This is a great question because it has a good amount of detail and examples of the problem. It demonstrates that the asker has done their due diligence and really needs guided help.
 
 ## Conclusion
 
