@@ -57,4 +57,4 @@ This is a great question because it has a good amount of detail and examples of 
 
 Generally, if you're kind and set reasonable expectations you will find a solution. The helpers do their work because they find it enjoyable. It's not enjoyable if the question is lazy. That is just a step short of asking someone to just do your project for you! Demonstrate some thought and challenge yourself first. Ask a good question and then the answers will flow. Maybe someday you'll become a helper and understand why we ask this of you.
 
-![The Good Asker](https://user-images.githubusercontent.com/12948924/119228207-ce28bf80-bac6-11eb-832f-062a75134913.png)
+![The-Good-Asker-Small](https://user-images.githubusercontent.com/12948924/119228759-50b27e80-bac9-11eb-93b2-92fb45dd883b.png)
